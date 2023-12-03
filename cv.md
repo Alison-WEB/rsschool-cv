@@ -4,8 +4,10 @@
 
 - **Location:** Rostov-on-Don, Russian Federation
 - **Discord:** Alison-WEB (@Alison-WEB)
-- **Email:** AlisonWEB@yandex.ru
+- **Email:** AlisonWEB@yandex.ru  
+
 ---
+
 ## **Skills**
 
 - HTML
@@ -13,17 +15,22 @@
 - JavaScript (basic level)
 - Git, GitHub
 - VS Code
-- Figma
+- Figma  
+
 ---
+
 ## Code Example
 
 ```
 let test = '\nHello';
 console.log(test.indexOf('H')); // [1]
 
-```
+```  
+
 ---
+
 ## Education
+
 - **Courses** 
   + RS School  
   JavaScript/Front-end course, 2023 (in progress)
@@ -31,9 +38,10 @@ console.log(test.indexOf('H')); // [1]
   Web programmer: from scratch to the first projects, 2023
 - **University**
   + Rostov State Conservatory  
-  Master’s Degree in Piano Performance, 2017
+  Master’s Degree in Piano Performance, 2017  
 
 ---
+
 ## English
 
 **A2**

@@ -1,0 +1,16 @@
+h1 {
+    margin: 30px;
+}
+
+a {
+    color: rgb(198, 0, 0);
+    transition: 0.3s;
+}
+a:hover {
+    color: rgba(251, 82, 155, 0.966);
+    transition: 0.3s;
+}
+
+a:visited {
+    color:rgb(86, 0, 0)
+}
